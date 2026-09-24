@@ -1,0 +1,5 @@
+1.dibujar
+2.dormir
+3.comer
+4.ver algo
+5.descansar

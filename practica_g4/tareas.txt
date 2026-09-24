@@ -1,0 +1,5 @@
+1.letras
+2.numeros
+3.lavar platos
+4.barrer
+5.hacer silencio
